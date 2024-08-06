@@ -52,7 +52,7 @@ fi
 clear
 clear && clear && clear
 clear;clear;clear
-checking_sc
+#checking_sc
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "\033[96;1m             WELCOME TO SRICPT BY FREETUNNEL             \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
